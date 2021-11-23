@@ -1,3 +1,3 @@
-//Exercici13//
-console.log(Boolean("Xavi"))
-console.log(true || 'bon dia')
+//Exercici14//
+console.log(Number(true))
+console.log(45!=true)
