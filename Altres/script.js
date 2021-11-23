@@ -1,3 +1,4 @@
-//Exercici9//
-var nom="Xavi Arjona Martin";
-alert (nom.slice(5,11)+(" ")+(nom.slice(5,11).length));
+//Exercici11//
+var nula=null;
+var nodefinida=undefined;
+console.log(nula+nodefinida);
