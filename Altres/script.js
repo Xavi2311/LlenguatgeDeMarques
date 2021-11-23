@@ -1,4 +1,3 @@
-//Exercici11//
-var nula=null;
-var nodefinida=undefined;
-console.log(nula+nodefinida);
+//Exercici12//
+console.log(Boolean("Xavi"))
+console.log(String+true)
