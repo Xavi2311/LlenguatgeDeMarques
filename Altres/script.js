@@ -1,6 +1,3 @@
-var numero = 1234;
-var bigint = 5678;
-console.log((bigint+numero).toFixed(1));
-console.log((bigint-numero).toFixed(1));
-console.log((bigint*numero).toFixed(1));
-console.log((bigint/numero).toFixed(1));
+//Exercici7//
+var catet=4;
+console.log((catet**2)+(catet**2));
