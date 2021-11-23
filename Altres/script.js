@@ -1,3 +1,4 @@
-//Exercici7//
-var catet=4;
-console.log((catet**2)+(catet**2));
+//Exercici8//
+var num=4;
+var text="a";
+console.log (text/catet);
