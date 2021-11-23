@@ -1,3 +1,3 @@
-//Exercici12//
+//Exercici13//
 console.log(Boolean("Xavi"))
-console.log(String+true)
+console.log(true || 'bon dia')
