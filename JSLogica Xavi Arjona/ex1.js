@@ -1,4 +1,7 @@
-function ex1(nom,cognom){
-    console.log("Hola "+nom+" "+cognom)
+var numero = 21;
+if (numero%7==0){
+    console.log("El numero es multiple de 7")
 }
-ex1 ("Xavi", "Arjona");
+if (numero%3==0){
+    console.log("El numero es multiple de 3")
+}
