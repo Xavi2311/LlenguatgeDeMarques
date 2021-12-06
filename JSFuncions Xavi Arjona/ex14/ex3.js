@@ -1,4 +1,8 @@
-function ex3(data){
-    console.log("Avui es dia: "+ data);
+var posicio = (x,y) => {
+    return (x.length-x.indexOf(y))
 }
-ex3 ('26-11-2021');
+console.log(posicio('Hola bondia mite','bondia'));
+var dividir = (x,y) => {
+    return y.substr(x,y.length)
+}
+console.log(dividir(posicio('Hola bondia mite', 'bondia')))
